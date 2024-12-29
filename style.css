@@ -660,12 +660,12 @@ font-size: 15px;
     
  }
  .left-column{
-    background-image: url(/image.practise/H14-bg_01.jpg);
+    background-image: url(./assets/H14-bg_01.jpg);
     width: 100%;
     height: 650px;
  }
  .right-column{
-    background-image: url(/image.practise/H14-bg_05.jpg);
+    background-image: url(./assets/H14-bg_05.jpg);
     width: 100%;
     height: 650px;
  }
